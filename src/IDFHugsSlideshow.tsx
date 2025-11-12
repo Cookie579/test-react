@@ -140,7 +140,7 @@ export default function IDFHugsSlideshow({
             <div>
               <h1 className="text-xl md:text-2xl font-extrabold tracking-tight" style={{ color: IDF_COLORS.sand }}>IDF • Hugs & Hope (Tribute)</h1>
               <p className="text-xs opacity-80">
-                External images only (your links). A tribute soundtrack auto-plays; there are no controls.
+                IDF's official anthem auto-plays; there are no controls.
               </p>
             </div>
           </div>
@@ -232,7 +232,6 @@ export default function IDFHugsSlideshow({
                 )}
               </div>
 
-              <div className="text-[10px] opacity-70">Disclaimer: Tribute UI using IDF-inspired palette; emblem is fan-made, not the official insignia.</div>
             </aside>
           </div>
         </div>
